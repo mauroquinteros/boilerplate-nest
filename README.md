@@ -60,3 +60,8 @@ $ pnpm run test:e2e
 # test coverage
 $ pnpm run test:cov
 ```
+
+## Stay in touch
+
+- Author - [Mauro Quinteros](https://mauroquinteros.vercel.app)
+- Twitter - [@mauroquinteroos](https://twitter.com/mauroquinteroos)
