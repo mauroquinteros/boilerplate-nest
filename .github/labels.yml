@@ -1,0 +1,7 @@
+- name: "type:bug"
+  color: "e80c0c"
+  description: Something isn't working as expected.
+
+- name: "type:feature"
+  color: "54b2ff"
+  description: Suggest a new feature.
